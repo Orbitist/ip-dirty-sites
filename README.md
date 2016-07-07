@@ -1,1 +1,1 @@
-# ip-dirty-sites
+# Environmentally dirty sites for Investigativepost.org
